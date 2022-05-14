@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**luismendes535/luismendes535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luis from Portugal, and I work as a front-end engineer. I really enjoy learning about software engineering development, particularly backend development. Don't hesitate to contact me if you have any questions!
 
-Here are some ideas to get you started:
+Skills: JAVASCRIPT | TYPESCRIPT | REACT | NODE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on frontend development at Carlsberg Group.
+- 🌱 I’m currently learning software architectures like Clean Arch, DDD, Onion, Hexagonal and more. 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luismendes535&show_icons=true&count_private=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luismendes535)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luismendesjs//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/2253020/luismendes535)  
+
+
