@@ -5,7 +5,7 @@ I'm Luis from Portugal, and I work as a front-end engineer. I really enjoy learn
 Skills: JAVASCRIPT | TYPESCRIPT | REACT | NODE
 
 - 🔭 I’m currently working on frontend development at Carlsberg Group.
-- 🌱 I’m currently learning software architectures like Clean Arch, DDD, Onion, Hexagonal and more. 
+- 🌱 I’m currently learning about software architectures like Clean Arch, DDD, Onion, Hexagonal and more. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luismendes535&show_icons=true&count_private=true)  
 
